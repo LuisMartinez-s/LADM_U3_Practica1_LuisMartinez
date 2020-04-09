@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica1_LuisMartinez_BD</string>
+    <string name="selected_item">Seleccione una opción</string>
+    <string-array name="seleccion">
+        <item>Seleccione una opción</item>
+        <item>Mostrar todo</item>
+        <item>Id Actividad</item>
+        <item>Descripcion</item>
+        <item>Fecha de captura</item>
+        <item>Fecha de entrega</item>
+    </string-array>
+
+</resources>
